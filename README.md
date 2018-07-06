@@ -1,2 +1,2 @@
 # hello_world
-Rick's initial learning git hub repository.
+Rick's initial learning git hub repository.  Greetings!
